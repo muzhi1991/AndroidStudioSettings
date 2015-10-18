@@ -1,0 +1,10 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="127.0.0.1" />
+    <option name="PROXY_PORT" value="7070" />
+    <option name="PROXY_LOGIN" value="sanjusss" />
+    <option name="PROXY_PASSWORD_CRYPT" value="bmp1cHQyMDEw" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+  </component>
+</application>
