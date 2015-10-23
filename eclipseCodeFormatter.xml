@@ -9,6 +9,7 @@
           <option name="name" value="default" />
           <option name="pathToConfigFileJava" value="$USER_HOME$/Downloads/baidu-eclipse-20150126.xml" />
           <option name="selectedJavaProfile" value="Baidu" />
+          <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
       </list>
     </option>
