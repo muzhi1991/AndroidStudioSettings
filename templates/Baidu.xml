@@ -1,6 +1,5 @@
 <templateSet group="Baidu">
-  <template name="bdlo" value="com.baidu.browser.util.BdLog.d(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="bdlo" value="com.baidu.browser.util.BdLog.d(TAG, &quot;$content$&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
