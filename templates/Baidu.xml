@@ -6,17 +6,4 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="bdto" value="com.baidu.browser.util.BdToastUtil.showQuickToast(&quot;$METHOD_NAME$: $content$&quot;);" toReformat="false" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="false" />
-      <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="false" />
-    </context>
-  </template>
 </templateSet>
