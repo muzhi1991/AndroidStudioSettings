@@ -1,0 +1,9 @@
+<templateSet group="Baidu">
+  <template name="bdlo" value="com.baidu.browser.util.BdLog.d(TAG, &quot;$content$&quot;);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
