@@ -104,4 +104,16 @@
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://limuzhi@svn.baidu.com/app/gensoft/mobilebrowser/branches/jueying" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://limuzhi@svn.baidu.com/app/gensoft/mobilebrowser/branches/jueying" />
+      </list>
+    </option>
+  </component>
 </application>
