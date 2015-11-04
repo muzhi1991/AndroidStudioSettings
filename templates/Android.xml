@@ -1,7 +1,7 @@
 <templateSet group="Android">
-  <template name="toast" value="android.widget.Toast.makeText(this,&quot;$METHOD_NAME$: $content$&quot;);" toReformat="false" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="toast" value="android.widget.Toast.makeText($className$.this, &quot;$text$&quot;, Toast.LENGTH_SHORT).show();" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
