@@ -1,0 +1,7 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta A" />
+    <keyboard-shortcut first-keystroke="meta alt A" />
+  </action>
+</keymap>
