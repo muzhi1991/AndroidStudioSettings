@@ -1,0 +1,22 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta A" />
+    <keyboard-shortcut first-keystroke="meta alt A" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>

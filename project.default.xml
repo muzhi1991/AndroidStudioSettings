@@ -23,7 +23,13 @@
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-25_BRANCH" value="4339905632000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-25_BRANCH" value="5791058621000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-28_BRANCH" value="5794108591000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-29_BRANCH" value="5793768872000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-30_BRANCH" value="7253496225000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-31_BRANCH" value="7253785340000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-34_BRANCH" value="7261192002000" />
+            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-37_BRANCH" value="7262516227000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -50,6 +56,7 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="android.sdk.path" value="/Applications/adt-bundle-mac-x86_64-20131030/sdk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -147,7 +154,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
