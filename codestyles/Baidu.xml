@@ -61,7 +61,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="ALIGN_MULTILINE_PARENTHESIZED_EXPRESSION" value="true" />
-    <option name="SPACE_BEFORE_SYNCHRONIZED_PARENTHESES" value="false" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
