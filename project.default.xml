@@ -1,6 +1,6 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject>
+    <defaultProject version="4">
       <component name="CompilerConfiguration">
         <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
@@ -32,48 +32,21 @@
           <option name="addBlankAfter" value="false" />
         </LanguageOptions>
       </component>
-      <component name="DebuggerManager">
-        <breakpoint_any converted="true">
-          <breakpoint>
-            <option name="NOTIFY_CAUGHT" value="true" />
-            <option name="NOTIFY_UNCAUGHT" value="true" />
-            <option name="ENABLED" value="false" />
-            <option name="LOG_ENABLED" value="false" />
-            <option name="LOG_EXPRESSION_ENABLED" value="false" />
-            <option name="REMOVE_AFTER_HIT" value="false" />
-            <option name="SUSPEND_POLICY" value="SuspendAll" />
-            <option name="SUSPEND" value="true" />
-            <option name="COUNT_FILTER_ENABLED" value="false" />
-            <option name="COUNT_FILTER" value="0" />
-            <option name="CONDITION_ENABLED" value="true" />
-            <option name="CLASS_FILTERS_ENABLED" value="false" />
-            <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-            <option name="CONDITION" value="" />
-            <option name="LOG_MESSAGE" value="" />
-          </breakpoint>
-          <breakpoint>
-            <option name="NOTIFY_CAUGHT" value="true" />
-            <option name="NOTIFY_UNCAUGHT" value="true" />
-            <option name="ENABLED" value="false" />
-            <option name="LOG_ENABLED" value="false" />
-            <option name="LOG_EXPRESSION_ENABLED" value="false" />
-            <option name="REMOVE_AFTER_HIT" value="false" />
-            <option name="SUSPEND_POLICY" value="SuspendAll" />
-            <option name="SUSPEND" value="true" />
-            <option name="COUNT_FILTER_ENABLED" value="false" />
-            <option name="COUNT_FILTER" value="0" />
-            <option name="CONDITION_ENABLED" value="true" />
-            <option name="CLASS_FILTERS_ENABLED" value="false" />
-            <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-            <option name="CONDITION" value="" />
-            <option name="LOG_MESSAGE" value="" />
-          </breakpoint>
-        </breakpoint_any>
-        <ui_properties converted="true" />
-        <breakpoint_rules converted="true" />
-      </component>
+      <component name="DebuggerManager" />
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
+            <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+          </inspection_tool>
+        </profile>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
@@ -82,6 +55,9 @@
           </MavenGeneralSettings>
         </option>
       </component>
+      <component name="NamedScopeManager">
+        <order />
+      </component>
       <component name="ProjectInspectionProfilesVisibleTreeState">
         <entry key="Project Default">
           <profile-state>
@@ -89,12 +65,25 @@
               <State>
                 <id />
               </State>
-            </expanded-state>
-            <selected-state>
               <State>
-                <id>Abstraction issues</id>
+                <id>Android Lint</id>
               </State>
-            </selected-state>
+              <State>
+                <id>C/C++</id>
+              </State>
+              <State>
+                <id>Control flow issuesJava</id>
+              </State>
+              <State>
+                <id>GeneralC/C++</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+            </expanded-state>
           </profile-state>
         </entry>
       </component>
@@ -107,6 +96,9 @@
         <OptionsSetting value="true" id="Edit" />
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
@@ -121,7 +113,7 @@
         <property name="options.splitter.details.proportions" value="0.2" />
         <property name="options.searchVisible" value="true" />
         <property name="android.sdk.path" value="/Applications/adt-bundle-mac-x86_64-20131030/sdk" />
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="preferences.updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="last_opened_file_path" value="$USER_HOME$/mobilebrowser_new/trunk" />
       </component>
