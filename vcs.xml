@@ -14,8 +14,20 @@
           <option name="url" value="https://github.com/Trinea/java-dynamic-load-jar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lingochamp/FileDownloader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pengjianbo/FileDownloaderFinal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Karumi/Rosie.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/github/" />
+    <option name="cloneParentDir" value="$USER_HOME$/github/tmp" />
   </component>
 </application>

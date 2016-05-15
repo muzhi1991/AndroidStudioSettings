@@ -1,7 +1,8 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject version="4">
+    <defaultProject>
       <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -12,7 +13,6 @@
           <entry name="!?*.flex" />
           <entry name="!?*.kt" />
           <entry name="!?*.clj" />
-          <entry name="!?*.aj" />
         </wildcardResourcePatterns>
         <annotationProcessing>
           <profile default="true" name="Default" enabled="false">
@@ -20,27 +20,83 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/jueying_6-3-1_BRANCH" value="5815154604000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-25_BRANCH" value="5791058621000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-28_BRANCH" value="5794108591000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-29_BRANCH" value="5793768872000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-30_BRANCH" value="7253496225000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-31_BRANCH" value="7253785340000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-34_BRANCH" value="7261192002000" />
-            <entry key="$USER_HOME$/mobilebrowser/branches/jueying/mobilebrowser_2-3-3-37_BRANCH" value="7262516227000" />
-            <entry key="$USER_HOME$/mobilebrowser/trunk/jueying" value="5815166390000" />
-            <entry key="$USER_HOME$/mobilebrowser_new/trunk/newbb" value="8752192841000" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
+      <component name="CopyrightManager" default="Baidu">
+        <copyright>
+          <option name="notice" value="Copyright (C) &amp;#36;today.year Baidu, Inc. All Rights Reserved." />
+          <option name="keyword" value="Copyright" />
+          <option name="allowReplaceKeyword" value="" />
+          <option name="myName" value="Baidu" />
+          <option name="myLocal" value="true" />
+        </copyright>
+        <LanguageOptions name="__TEMPLATE__">
+          <option name="addBlankAfter" value="false" />
+        </LanguageOptions>
+      </component>
+      <component name="DebuggerManager">
+        <breakpoint_any converted="true">
+          <breakpoint>
+            <option name="NOTIFY_CAUGHT" value="true" />
+            <option name="NOTIFY_UNCAUGHT" value="true" />
+            <option name="ENABLED" value="false" />
+            <option name="LOG_ENABLED" value="false" />
+            <option name="LOG_EXPRESSION_ENABLED" value="false" />
+            <option name="REMOVE_AFTER_HIT" value="false" />
+            <option name="SUSPEND_POLICY" value="SuspendAll" />
+            <option name="SUSPEND" value="true" />
+            <option name="COUNT_FILTER_ENABLED" value="false" />
+            <option name="COUNT_FILTER" value="0" />
+            <option name="CONDITION_ENABLED" value="true" />
+            <option name="CLASS_FILTERS_ENABLED" value="false" />
+            <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+            <option name="CONDITION" value="" />
+            <option name="LOG_MESSAGE" value="" />
+          </breakpoint>
+          <breakpoint>
+            <option name="NOTIFY_CAUGHT" value="true" />
+            <option name="NOTIFY_UNCAUGHT" value="true" />
+            <option name="ENABLED" value="false" />
+            <option name="LOG_ENABLED" value="false" />
+            <option name="LOG_EXPRESSION_ENABLED" value="false" />
+            <option name="REMOVE_AFTER_HIT" value="false" />
+            <option name="SUSPEND_POLICY" value="SuspendAll" />
+            <option name="SUSPEND" value="true" />
+            <option name="COUNT_FILTER_ENABLED" value="false" />
+            <option name="COUNT_FILTER" value="0" />
+            <option name="CONDITION_ENABLED" value="true" />
+            <option name="CLASS_FILTERS_ENABLED" value="false" />
+            <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+            <option name="CONDITION" value="" />
+            <option name="LOG_MESSAGE" value="" />
+          </breakpoint>
+        </breakpoint_any>
+        <ui_properties converted="true" />
+        <breakpoint_rules converted="true" />
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="true" />
+          </MavenGeneralSettings>
         </option>
       </component>
-      <component name="NamedScopeManager">
-        <order />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Abstraction issues</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -52,14 +108,22 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectModuleManager">
-        <modules />
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="http.proxy" />
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="options.lastSelected" value="preferences.sourceCode.General" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+        <property name="android.sdk.path" value="/Applications/adt-bundle-mac-x86_64-20131030/sdk" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="android.sdk.path" value="/Applications/adt-bundle-mac-x86_64-20140702/sdk" />
+        <property name="last_opened_file_path" value="$USER_HOME$/mobilebrowser_new/trunk" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
@@ -88,11 +152,11 @@
           <option name="TEST_OBJECT" value="class" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="ENV_VARIABLES" />
           <option name="PASS_PARENT_ENVS" value="true" />
           <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="singleModule" />
+            <value defaultName="moduleWithDependencies" />
           </option>
           <envs />
           <patterns />
@@ -106,45 +170,9 @@
           <option name="PORT" value="5005" />
           <method />
         </configuration>
-        <configuration default="true" type="TestNG" factoryName="TestNG">
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <module name="" />
-          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-          <option name="ALTERNATIVE_JRE_PATH" />
-          <option name="SUITE_NAME" />
-          <option name="PACKAGE_NAME" />
-          <option name="MAIN_CLASS_NAME" />
-          <option name="METHOD_NAME" />
-          <option name="GROUP_NAME" />
-          <option name="TEST_OBJECT" value="CLASS" />
-          <option name="VM_PARAMETERS" value="-ea" />
-          <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-          <option name="OUTPUT_DIRECTORY" />
-          <option name="ANNOTATION_TYPE" />
-          <option name="ENV_VARIABLES" />
-          <option name="PASS_PARENT_ENVS" value="true" />
-          <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="singleModule" />
-          </option>
-          <option name="USE_DEFAULT_REPORTERS" value="false" />
-          <option name="PROPERTIES_FILE" />
-          <envs />
-          <properties />
-          <listeners />
-          <method />
-        </configuration>
-        <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
-          <option name="MAIN_CLASS_NAME" />
-          <option name="HTML_FILE_NAME" />
-          <option name="HTML_USED" value="false" />
-          <option name="WIDTH" value="400" />
-          <option name="HEIGHT" value="300" />
-          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-          <option name="VM_PARAMETERS" />
-        </configuration>
-        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
         </configuration>
       </component>
       <component name="SvnConfiguration">
@@ -155,6 +183,18 @@
       </component>
       <component name="masterDetails">
         <states>
+          <state key="Copyright.UI">
+            <settings>
+              <last-edited>Baidu</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
