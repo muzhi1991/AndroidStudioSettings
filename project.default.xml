@@ -32,7 +32,6 @@
           <option name="addBlankAfter" value="false" />
         </LanguageOptions>
       </component>
-      <component name="DebuggerManager" />
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
@@ -113,7 +112,7 @@
         <property name="options.splitter.details.proportions" value="0.2" />
         <property name="options.searchVisible" value="true" />
         <property name="android.sdk.path" value="/Applications/adt-bundle-mac-x86_64-20131030/sdk" />
-        <property name="settings.editor.selected.configurable" value="preferences.updates" />
+        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="last_opened_file_path" value="$USER_HOME$/mobilebrowser_new/trunk" />
       </component>
